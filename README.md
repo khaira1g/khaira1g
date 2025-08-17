@@ -11,13 +11,11 @@
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -65,5 +63,5 @@ AutoHotkey               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 01:57:30 UTC
+ Last Updated on 17/08/2025 02:09:12 UTC
 <!--END_SECTION:waka-->
